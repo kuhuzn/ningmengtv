@@ -108,7 +108,7 @@
                         android:textColor="@android:color/white"
                         android:textSize="@dimen/ts_30" />
             </LinearLayout>
-
+<!-- 
             <LinearLayout
                     android:id="@+id/llApi"
                     android:layout_width="match_parent"
@@ -150,7 +150,9 @@
                         android:text=">"
                         android:textColor="@android:color/white"
                         android:textSize="@dimen/ts_30" />
-            </LinearLayout>
+            </LinearLayout> 
+			
+			-->
 
             <LinearLayout
                     android:layout_width="match_parent"
